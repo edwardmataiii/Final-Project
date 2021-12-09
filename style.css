@@ -1,0 +1,64 @@
+h2 {
+
+
+    text-align: inline-block;
+
+}
+
+
+header {
+
+        
+        background-color: rgb(55, 139, 160);
+        padding-top: 35px;
+    
+    
+    
+    
+    
+}
+
+h1 {
+
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+
+
+
+
+}
+
+ul {
+
+    word-spacing: 30px;
+    
+
+
+
+}
+
+ul#horizontal-list {
+
+    min-width: 696px;
+    list-style:none;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+ul#horizontal-list li {
+
+    display:inline;
+    font-size: 17px;
+    font-family: 'Lato', sans-serif;
+    list-style: bold;
+
+}
+
+li:hover {
+
+    background-color: rgb(236, 232, 219);
+    
+
+
+}
